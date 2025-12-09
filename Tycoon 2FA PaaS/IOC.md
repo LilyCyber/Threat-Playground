@@ -1,12 +1,12 @@
 ## Phishing Email Servers
-``
+```
 mgspk07.cybermail[.]jp
 
 cmspk06.cybermail[.]jp 
-``
+```
 
 ## Phishing website domains
-``
+```
 delightfully298.axonrai.com[.]de
 
 delightfully281.gavorai[.]com
@@ -14,7 +14,7 @@ delightfully281.gavorai[.]com
 obs.creathochea.biz[.]pl
 
 serengetimajesticadventures[.]com
-``
+```
 
 ## Associated IP Addresses
 ```
