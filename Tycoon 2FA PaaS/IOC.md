@@ -1,14 +1,18 @@
 ## Phishing Email Servers
 ``
-mgspk07.cybermail[.]jp 
+mgspk07.cybermail[.]jp
+
 cmspk06.cybermail[.]jp 
 ``
 
 ## Phishing website domains
 ``
-delightfully298.axonrai.com[.]de 
-delightfully281.gavorai[.]com 
-obs.creathochea.biz[.]pl 
+delightfully298.axonrai.com[.]de
+
+delightfully281.gavorai[.]com
+
+obs.creathochea.biz[.]pl
+
 serengetimajesticadventures[.]com
 ``
 
